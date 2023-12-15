@@ -1,0 +1,1 @@
+App was created for an exercise in setting up a VPS
